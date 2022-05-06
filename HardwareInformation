@@ -1,2 +1,8 @@
 #windows command to get the RAM slots
 wmic memphysical get memorydevices
+
+
+#TO get base board information
+C:\Users\anand>wmic baseboard get product,manufacturer,version,serialnumber
+Manufacturer       Product  SerialNumber  Version
+Intel Corporation  DH67BL   BTBL134004BX  AAG10189-209
