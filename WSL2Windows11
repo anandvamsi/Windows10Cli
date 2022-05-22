@@ -1,0 +1,5 @@
+
+Install Ubuntu app and Enable WSL in windows11
+Additionally install new kernel
+ - https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+ - Download "WSL2 Linux kernel update package for x64 machines"
